@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&family=Roboto:wght@400;500&display=swap");
 
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .primary-button {
   font-family: 'Ropa Sans', sans-serif;
      /* font-family: 'Valorant', sans-serif; */
